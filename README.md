@@ -1,4 +1,4 @@
-# Biopython utilities for RefSeq and miRBase
+# Biopython-based utilities for RefSeq and miRBase
 
 This toolset provides utilities for dealing with RefSeq and miRBase
 annotations.
